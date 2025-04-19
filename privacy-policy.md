@@ -1,5 +1,5 @@
-Privacy Policy for BuumSpace
-Effective Date: 19th of April, 2025
+Privacy Policy
+Effective Date: [Insert Date]
 
 Welcome to BuumSpace. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this policy carefully to understand our practices regarding your personal data and how we will treat it.
 
@@ -65,7 +65,7 @@ Withdraw consent at any time
 
 Opt-out of marketing communications
 
-To exercise any of these rights, contact us at: ns5groupofcompany@gmail.com
+To exercise any of these rights, contact us at: [your-email@example.com]
 
 6. Children’s Privacy
 Our app is not intended for children under the age of 13. We do not knowingly collect personal data from children.
@@ -76,5 +76,5 @@ We may update this Privacy Policy from time to time. Updates will be posted in t
 8. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-📧 Email: ns5groupofcompany@gmail.com
-📍 Developer/Company Name (optional): NEXON SPHERE(NS-5)
+📧 Email: [your-email@example.com]
+📍 Developer/Company Name (optional): [Your Company Name]
