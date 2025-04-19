@@ -1,4 +1,4 @@
-Privacy Policy  
+Privacy Policy for BuumSpace 
 ----------------
 
 ### Introduction  
@@ -28,18 +28,20 @@ We may employ third-party companies and individuals due to the following reasons
 * To perform Service-related tasks
 * To help us analyze usage of the Service  
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+These third parties may access your Personal Information only to perform their assigned tasks and are required not to disclose or misuse it.
 
 ### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+We value your trust in providing your Personal Information and strive to use commercially acceptable means to protect it. However, no method of transmission or storage over the internet is 100% secure, and we cannot guarantee absolute protection.  
 
 ### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+Our Services are not intended for children under 13 years old. We do not knowingly collect personal data from children. If we discover a child under 13 has provided us with personal information, we will delete it immediately. If you are a parent or guardian and you suspect your child has shared data with us, please contact us so we can take appropriate action.  
 
 ### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We may update our Privacy Policy from time to time. We encourage you to review this page periodically for any changes. Updates will be posted here and will take effect immediately after posting.  
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: info@sunlab.az
+Email: ns5groupofcompany@gmail.com
+App Name: BuumSpace
+Developer/Company Name (optional): NEXON SPHERE(NS-5)
