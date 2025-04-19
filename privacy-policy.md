@@ -3,9 +3,7 @@ Privacy Policy
 
 ### Introduction  
 Welcome to BuumSpace! This Privacy Policy will help you understand what information we collect, how we use it, and the choices you have regarding your data.
-
 BuumSpace built the BuumSpace app as a free application. This Service is provided at no cost and is intended for use as-is. By using our Service, you agree to the collection and use of information in accordance with this policy.
-
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions unless otherwise defined herein.
 
 ### Information Collection and Use  
@@ -13,22 +11,22 @@ For a better experience while using our Service, we may require you to provide u
 The app does use third party services that may collect information used to identify you. 
 
 ### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Cookies are small data files used as anonymous unique identifiers. They are sent to your browser from websites and stored on your device.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+While BuumSpace does not use cookies directly, third-party tools and libraries integrated into the app may use cookies to enhance functionality. You can choose to accept or refuse cookies. Refusing cookies may affect your ability to use certain parts of the Service. 
 
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
 ### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+We may collect device-related data, such as operating system, device model, and identifiers. This information helps us detect bugs, improve performance, and ensure security. It is not used to personally identify users. 
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+* To facilitate our Service
+* To provide the Service on our behalf
+* To perform Service-related tasks
+* To help us analyze usage of the Service  
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
