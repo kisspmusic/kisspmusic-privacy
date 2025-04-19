@@ -43,7 +43,3 @@ We may update our Privacy Policy from time to time. We encourage you to review t
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: ns5groupofcompany@gmail.com
-----------------
-App Name: BuumSpace
-----------------
-Developer/Company Name (optional): NEXON SPHERE(NS-5)
